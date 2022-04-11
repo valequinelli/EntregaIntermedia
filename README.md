@@ -110,21 +110,15 @@ Total de entradas con datos de categoría: 723
 
 ### Gráficos de ratios
 
-#### Likes vs Comentarios
+<img width="705" alt="Captura de Pantalla 2022-04-11 a la(s) 15 11 45" src="https://user-images.githubusercontent.com/95255479/162802959-1bbd2793-0de2-4038-8eb8-900ba4e959c7.png">
 
-<img width="386" alt="Captura de Pantalla 2022-04-11 a la(s) 08 38 03" src="https://user-images.githubusercontent.com/95255479/162731916-dae200f3-e1e9-41fb-b64d-5ea626ffc414.png">
+A partir del análisis de estos gráficos, se pueden sacar varias conclusiones. En primer lugar, al analizar la primera gráfica nos encontramos que la gran mayoría de los canales no superan el ratio de valor 1, esto significa que estos canales no tienen más suscriptores que views. Esto llama la atención, dado que la creencia popular es que los canales tienen más views que suscriptores, es decir, mucha gente mira los videos pero pocos se apegan al canal y se convierten en un seguidor de ese creador de contenido. Por otro lado, podemos observar que algunos canales tienen ratios mayores a 1, alcanzando valores mayores a 6. Entendemos que esto puede darse en casos en los que un canal muy poco popular sube un video determinado que tiene una viralización exagerada, consiguiendo muchas views, pero si el canal no es activo o no es consistente con ese tipo de contenido, no va a tener un despegue en suscriptores. 
 
-#### Visualizaciones vs Likes
+En la siguiente gráfica, que presenta el ratio_subscribers_likes, sucede una situación similar a la anterior, se puede ver algunos canales con ratios despegados al resto, y la explicación que se le encuentra a esto es la misma que para el caso anterior, videos con una viralización inesperada. Pasando a analizar estas dos gráficas en conjunto, se puede apreciar que el ratio de la relación entre los suscriptores y las views se encuentra en su mayoría entre 0 y 1, mientras que el ratio de suscriptores y likes raramente supera 0,1. Esto se explica a partir de que para un creador de contenido es mucho más difícil obtener likes que views, dado que si un usuario mira un video ya contabiliza como view, pero para obtener un like se requiere un esfuerzo extra del usuario que consume el contenido. Además, sólo se puede likear una vez, pero mirar el video muchas veces y cada una de estas se traduce en una view.
 
-<img width="386" alt="Captura de Pantalla 2022-04-11 a la(s) 08 38 14" src="https://user-images.githubusercontent.com/95255479/162731921-f7ac2444-c482-4d59-b9f2-6e135fad4588.png">
+Pasando a la siguiente gráfica, se analiza la variación del ratio_views_likes respecto a cada canal de YouTube. Como era de esperarse, la gran mayoría de los valores son muy cercanos a 0, ya que como se explicó anteriormente, es mucho más fácil para un canal de YouTube obtener views que likes. Sin embargo, se aprecian determinados canales con este ratio adoptando valores mayores a 1. Basándose en la lógica del funcionamiento de YouTube, esto es imposible, ya que para que un usuario likee un video, primero tiene que sí o sí entrar al video, y esto ya contabiliza como view. En base a esto, se concluye que estos valores deben tratarse de un error.
 
-#### Visualizaciones vs Suscriptores
-
-<img width="386" alt="Captura de Pantalla 2022-04-11 a la(s) 08 38 23" src="https://user-images.githubusercontent.com/95255479/162731927-a52d6b3a-3c3a-48ab-aee9-9fec7223b58c.png">
-
-#### Suscriptores vs Likes
-<img width="386" alt="Captura de Pantalla 2022-04-11 a la(s) 08 38 30" src="https://user-images.githubusercontent.com/95255479/162731930-dd10e582-8973-46b7-9939-23ace86c8533.png">
-
+Para finalizar, se analiza la última gráfica de esta sección, la cual presenta el ratio_likes_comments. Aquí nuevamente se observa que la mayoría de los valores se acercan a 0. No obstante, se aprecian múltiples canales con valores mayores a 50 o 100, superando 400 en algunos casos. Esto sorprende, dado que normalmente un video tiene más likes que comentarios, principalmente por el esfuerzo que le implica al usuario realizar cada una de estas acciones. Se pudo observar que 889 canales tienen en promedio un ratio menor a 1, lo que parece lógico. Mientras que los restantes 111 canales, muestran tener en promedio más comentarios que likes. Esta situación podría justificarse a partir de que pueden ser canales cuyo contenido no guste mucho a los espectadores, y que consecuentemente no dejen likes en los videos pero sí publiquen comentarios criticando o simplemente expresando sus opiniones.
 
 ## Conclusiones
 
