@@ -147,3 +147,9 @@ Sin embargo, es curioso
 En cuanto a los países de la audiencia, se observa que Estados Unidos es el de mayor audiencia. Esto puede dar la pauta de que sería bueno enfocar los esfuerzos en apuntar a ese público, lo que podría traer mayores visualizaciones. 
 
 Si se analizan las categorías del contenido de cada canal, se concluye que la de mayor popularidad es "Music & Dance". Se observa que en todos los Top 5 el canal que ocupa el primer puesto corresponde a esta categoría. No obstante, las categorías con mayor cantidad de visualizaciones promedio son "Health & Self Help", "Sports" y "Travel". Esto podría explicarse a partir de que estas categorías suelen gustar a más gente, dado que son temas bastante populares. Con el objetivo de responder a la pregunta inicial (cómo lograr un mayor alcance en YouTube), se le podría recomendar a los creadores de contenido que opten por inclinarse hacia estas categorías, ya que, como se ha demostrado, son las que llegan a más gente.
+
+
+## Anécdotas
+
+Se entiende que podría haber sido de gran utilidad para el análisis el contar con la variable "País de origen del youtuber". En caso de haber contado con esta información, se hubiese podido sacar conclusiones sobre qué países de audiencia suelen consumir contenido de qué países de origen. Se hubiese podido determinar si, por ejemplo, para un uruguayo es conveniente desarrollar determinado tipo de contenido o si ese contenido únicamente tendría éxito si es publicado por un estadounidense. 
+
