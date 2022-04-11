@@ -51,11 +51,23 @@ A continuación se presentan los Top 5.
 
 Por número de suscriptores:
 
-|    | youtuber_name   | channel_name               | category      |   subscribers | audience_country   |   average_views |   average_likes |   average_comments |\n|---|----------------|---------------------------|--------------|--------------|-------------------|----------------|----------------|-------------------|\n|  0 | tseries         | T-Series                   | Music & Dance |     212100000 | India              |          323700 |      9800       |                290 |\n|  1 | checkgate       | Cocomelon - Nursery Rhymes | Education     |     132100000 | No Data            |        13800000 |     80900       |               3349 |\n|  2 | setindia        | SET India                  | No Data       |     130400000 | India              |           23600 |       314       |                 21 |\n|  3 | PewDiePie       | PewDiePie                  | Animation     |     111400000 | United States      |         1400000 |     80800       |               4600 |\n|  4 | MrBeast6000     | MrBeast                    | Video games   |      92500000 | United States      |        30600000 |         1.7e+06 |              67700 |
+|   | youtuber_name |               channel_name |      category | subscribers | audience_country | average_views | average_likes | average_comments |
+|---|--------------:|---------------------------:|--------------:|------------:|-----------------:|--------------:|--------------:|-----------------:|
+| 0 | tseries       | T-Series                   | Music & Dance | 212100000   | India            | 323700        | 9800          | 290              |
+| 1 | checkgate     | Cocomelon - Nursery Rhymes | Education     | 132100000   | No Data          | 13800000      | 80900         | 3349             |
+| 2 | setindia      | SET India                  | No Data       | 130400000   | India            | 23600         | 314           | 21               |
+| 3 | PewDiePie     | PewDiePie                  | Animation     | 111400000   | United States    | 1400000       | 80800         | 4600             |
+| 4 | MrBeast6000   | MrBeast                    | Video games   | 92500000    | United States    | 30600000      | 1700000       | 67700            |
 
 Por número de visualizaciones:
 
-|     | youtuber_name   | channel_name   | category        |   subscribers | audience_country   |   average_views |   average_likes |   average_comments |\n|----:|:----------------|:---------------|:----------------|--------------:|:-------------------|----------------:|----------------:|-------------------:|\n| 503 | Bizarrap        | Bizarrap       | Music & Dance   |      13100000 | Argentina          |        80500000 |         5.6e+06 |             313600 |\n|   4 | MrBeast6000     | MrBeast        | Video games     |      92500000 | United States      |        30600000 |         1.7e+06 |              67700 |\n| 862 | whoisjimmy      | How Ridiculous | Sports          |       9900000 | United States      |        25500000 |    750300       |               5200 |\n| 118 | MrBeast Gaming  | MrBeast Gaming | Animation       |      26500000 | United States      |        23300000 |    732000       |              44000 |\n| 844 | вДудь           | вДудь          | News & Politics |      10100000 | Russia             |        16800000 |    615500       |              89400 |
+|     |  youtuber_name |   channel_name |        category | subscribers | audience_country | average_views | average_likes | average_comments |
+|-----|---------------:|---------------:|----------------:|------------:|-----------------:|--------------:|--------------:|-----------------:|
+| 503 | Bizarrap       | Bizarrap       | Music & Dance   | 13100000    | Argentina        | 80500000      | 5600000       | 313600           |
+| 4   | MrBeast6000    | MrBeast        | Video games     | 92500000    | United States    | 30600000      | 1700000       | 67700            |
+| 862 | whoisjimmy     | How Ridiculous | Sports          | 9900000     | United States    | 25500000      | 750300        | 5200             |
+| 118 | MrBeast Gaming | MrBeast Gaming | Animation       | 26500000    | United States    | 23300000      | 732000        | 44000            |
+| 844 | вДудь          | вДудь          | News & Politics | 10100000    | Russia           | 16800000      | 615500        | 89400            |
 
 Por cantidad de me gusta:
 
