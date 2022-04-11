@@ -110,5 +110,3 @@ En cuanto a los países de la audiencia, se observa que Estados Unidos es el de 
 Pareto 80 20
 
 Si se analizan las categorías del contenido de cada canal, se concluye que la de mayor popularidad es "Music & Dance". Se observa que en todos los Top 5 el canal que ocupa el primer puesto corresponde a esta categoría.
-
-Finalmente se p
