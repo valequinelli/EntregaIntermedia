@@ -120,6 +120,11 @@ Pasando a la siguiente gráfica, se analiza la variación del ratio_views_likes 
 
 Para finalizar, se analiza la última gráfica de esta sección, la cual presenta el ratio_likes_comments. Aquí nuevamente se observa que la mayoría de los valores se acercan a 0. No obstante, se aprecian múltiples canales con valores mayores a 50 o 100, superando 400 en algunos casos. Esto sorprende, dado que normalmente un video tiene más likes que comentarios, principalmente por el esfuerzo que le implica al usuario realizar cada una de estas acciones. Se pudo observar que 889 canales tienen en promedio un ratio menor a 1, lo que parece lógico. Mientras que los restantes 111 canales, muestran tener en promedio más comentarios que likes. Esta situación podría justificarse a partir de que pueden ser canales cuyo contenido no guste mucho a los espectadores, y que consecuentemente no dejen likes en los videos pero sí publiquen comentarios criticando o simplemente expresando sus opiniones.
 
+#### Porcentaje de likes sobre views 
+
+En esta instancia se calcula qué porcentaje de las views a un canal son retribuidas con un like. Este porcentaje es de 3.1072%
+Se puede interpretar que son muy pocos los viewers que le dan like a un video. De todas formas esta estadística puede verse perjudicada por el hecho de que un usuario puede dar like a un video una única vez, mientras que puede visualizarlo cuantas veces quiera.
+
 ## Conclusiones
 
 De las gráficas de ratios se desprende que la relación entre la cantidad de suscriptores, visualizaciones, me gusta y comentarios es bastante similar en todos los casos. Se observa un comportamiento bastante parejo en lo general, con casos puntuales en los que la relación no es directa.
