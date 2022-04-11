@@ -94,12 +94,21 @@ Por cantidad de comentarios:
 
 A continuación se presenta un gráfico con la cantidad de canales por país de la audiencia:
 
-<img width="384" alt="Captura de Pantalla 2022-04-11 a la(s) 00 08 22" src="https://user-images.githubusercontent.com/95255479/162659159-211d8819-f412-4cc9-9e09-59398ad38b9a.png">
+<img width="384" alt="Captura de Pantalla 2022-04-11 a la(s) 00 08 31" src="https://user-images.githubusercontent.com/95255479/162659204-d4ff6ab6-2c64-437c-af5e-5b4f725cd691.png">
 
 El siguiente gráfico muestra la cantidad de canales según la categoría de su contenido:
 
-<img width="384" alt="Captura de Pantalla 2022-04-11 a la(s) 00 08 31" src="https://user-images.githubusercontent.com/95255479/162659204-d4ff6ab6-2c64-437c-af5e-5b4f725cd691.png">
+<img width="384" alt="Captura de Pantalla 2022-04-11 a la(s) 00 08 22" src="https://user-images.githubusercontent.com/95255479/162659159-211d8819-f412-4cc9-9e09-59398ad38b9a.png">
+
+### Gráficos de ratios
 
 ## Conclusiones
 
-Como se puede observar,
+Como se puede observar, no es tan lineal la relación entre la cantidad de suscriptores, visualizaciones, me gusta y comentarios. Si bien en la gráfica se observa un comportamiento bastante parejo en lo general, hay casos puntuales en los que la relación no es directa.
+
+En cuanto a los países de la audiencia, se observa que Estados Unidos es el de mayor audiencia. Esto puede dar la pauta de que sería bueno enfocar los esfuerzos en apuntar a ese público, lo que podría traer mayores visualizaciones. 
+Pareto 80 20
+
+Si se analizan las categorías del contenido de cada canal, se concluye que la de mayor popularidad es "Music & Dance". Se observa que en todos los Top 5 el canal que ocupa el primer puesto corresponde a esta categoría.
+
+Finalmente se p
