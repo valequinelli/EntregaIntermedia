@@ -1,5 +1,7 @@
 # Cómo tener mayor alcance en Youtube
 
+## Introducción y Resumen
+
 Partiendo de los datos de varios canales de Youtube, se realiza un análisis que busca responder preguntas como: ¿Cuáles son los canales con mayor cantidad de seguidores?, ¿Cuál es su temática?, ¿De qué país es la mayor parte de la audiencia?, ¿Cuál es la relación entre la cantidad de suscriptores y de me gusta o comentarios? 
 Con esto se busca entender el comportamiento de los usuarios para poder tener mayor alcance. 
 
