@@ -50,7 +50,7 @@ Finalmente se analiza la distribución por país y por categoría del contenido 
 ### Top 5
 A continuación se presentan los Top 5.
 
-Por número de suscriptores:
+#### Por número de suscriptores
 
 |   | youtuber_name |               channel_name |      category | subscribers | audience_country | average_views | average_likes | average_comments |
 |---|--------------:|---------------------------:|--------------:|------------:|-----------------:|--------------:|--------------:|-----------------:|
@@ -60,7 +60,7 @@ Por número de suscriptores:
 | 3 | PewDiePie     | PewDiePie                  | Animation     | 111400000   | United States    | 1400000       | 80800         | 4600             |
 | 4 | MrBeast6000   | MrBeast                    | Video games   | 92500000    | United States    | 30600000      | 1700000       | 67700            |
 
-Por número de visualizaciones:
+#### Por número de visualizaciones
 
 |     |  youtuber_name |   channel_name |        category | subscribers | audience_country | average_views | average_likes | average_comments |
 |-----|---------------:|---------------:|----------------:|------------:|-----------------:|--------------:|--------------:|-----------------:|
@@ -70,7 +70,7 @@ Por número de visualizaciones:
 | 118 | MrBeast Gaming | MrBeast Gaming | Animation       | 26500000    | United States    | 23300000      | 732000        | 44000            |
 | 844 | вДудь          | вДудь          | News & Politics | 10100000    | Russia           | 16800000      | 615500        | 89400            |
 
-Por cantidad de me gusta:
+#### Por cantidad de me gusta
 
 |     |    youtuber_name |     channel_name |      category | subscribers | audience_country | average_views | average_likes | average_comments |
 |-----|-----------------:|-----------------:|--------------:|------------:|-----------------:|--------------:|--------------:|-----------------:|
@@ -80,7 +80,7 @@ Por cantidad de me gusta:
 | 363 | Triggered Insaan | Triggered Insaan | Humor         | 15400000    | India            | 6400000       | 800900        | 26500            |
 | 628 | MORGENSHTERN     | MORGENSHTERN     | Humor         | 11700000    | Russia           | 11000000      | 789900        | 54800            |
 
-Por cantidad de comentarios:
+#### Por cantidad de comentarios
 
 | | youtuber_name | channel_name         | category             | subscribers     | audience_country | average_views | average_likes | average_comments |        
 |---------------|----------------------|----------------------|-----------------|------------------|---------------|---------------|------------------|--------|
@@ -92,11 +92,15 @@ Por cantidad de comentarios:
 
 ### Gráficos por país y por categoría
 
+#### Por país 
+
 A continuación se presenta un gráfico con la cantidad de canales por país de la audiencia:
 
 <img width="384" alt="Captura de Pantalla 2022-04-11 a la(s) 00 08 31" src="https://user-images.githubusercontent.com/95255479/162659204-d4ff6ab6-2c64-437c-af5e-5b4f725cd691.png">
 
 Total de entradas con datos de país de la audiencia: 839
+
+#### Por categoría
 
 El siguiente gráfico muestra la cantidad de canales según la categoría de su contenido:
 
@@ -106,18 +110,27 @@ Total de entradas con datos de categoría: 723
 
 ### Gráficos de ratios
 
+#### Likes vs Comentarios
+
 <img width="386" alt="Captura de Pantalla 2022-04-11 a la(s) 08 38 03" src="https://user-images.githubusercontent.com/95255479/162731916-dae200f3-e1e9-41fb-b64d-5ea626ffc414.png">
+
+#### Visualizaciones vs Likes
 
 <img width="386" alt="Captura de Pantalla 2022-04-11 a la(s) 08 38 14" src="https://user-images.githubusercontent.com/95255479/162731921-f7ac2444-c482-4d59-b9f2-6e135fad4588.png">
 
+#### Visualizaciones vs Suscriptores
+
 <img width="386" alt="Captura de Pantalla 2022-04-11 a la(s) 08 38 23" src="https://user-images.githubusercontent.com/95255479/162731927-a52d6b3a-3c3a-48ab-aee9-9fec7223b58c.png">
 
+#### Suscriptores vs Likes
 <img width="386" alt="Captura de Pantalla 2022-04-11 a la(s) 08 38 30" src="https://user-images.githubusercontent.com/95255479/162731930-dd10e582-8973-46b7-9939-23ace86c8533.png">
 
 
 ## Conclusiones
 
-Como se puede observar, no es tan lineal la relación entre la cantidad de suscriptores, visualizaciones, me gusta y comentarios. Si bien en la gráfica se observa un comportamiento bastante parejo en lo general, hay casos puntuales en los que la relación no es directa.
+De las gráficas de ratios se desprende que la relación entre la cantidad de suscriptores, visualizaciones, me gusta y comentarios es bastante similar en todos los casos. Se observa un comportamiento bastante parejo en lo general, con casos puntuales en los que la relación no es directa.
+Sin embargo, es curioso
+
 
 En cuanto a los países de la audiencia, se observa que Estados Unidos es el de mayor audiencia. Esto puede dar la pauta de que sería bueno enfocar los esfuerzos en apuntar a ese público, lo que podría traer mayores visualizaciones. 
 
