@@ -1,3 +1,4 @@
+
 # Cómo tener mayor alcance en Youtube
 
 ## Introducción y Resumen
@@ -91,7 +92,9 @@ Por cantidad de comentarios:
 
 ### Gráficos por país y por categoría
 
-![](https://github.com/valequinelli/EntregaIntermedia.git/Captura de Pantalla 2022-04-11 a la(s) 00.08.22.png)
+<img width="384" alt="Captura de Pantalla 2022-04-11 a la(s) 00 08 22" src="https://user-images.githubusercontent.com/95255479/162659159-211d8819-f412-4cc9-9e09-59398ad38b9a.png">
+
+<img width="384" alt="Captura de Pantalla 2022-04-11 a la(s) 00 08 31" src="https://user-images.githubusercontent.com/95255479/162659204-d4ff6ab6-2c64-437c-af5e-5b4f725cd691.png">
 
 ## Conclusiones
 
