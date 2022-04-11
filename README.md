@@ -89,7 +89,9 @@ Por cantidad de comentarios:
 | 703           | Jaiden Animations    | Jaiden Animations    | No Data         | 11100000         | United States | 5600000       | 602700           | 94300  |
 | 844           | вДудь                | вДудь                | News & Politics | 10100000         | Russia        | 16800000      | 615500           | 89400  |
 
+### Gráficos por país y por categoría
 
+![](https://github.com/valequinelli/EntregaIntermedia.git/imagename.png)
 
 ## Conclusiones
 
