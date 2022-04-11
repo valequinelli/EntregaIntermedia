@@ -126,17 +126,17 @@ Pasando a la siguiente gráfica, se analiza la variación del ratio_views_likes 
 
 Para finalizar, se analiza la última gráfica de esta sección, la cual presenta el ratio_likes_comments. Aquí nuevamente se observa que la mayoría de los valores se acercan a 0. No obstante, se aprecian múltiples canales con valores mayores a 50 o 100, superando 400 en algunos casos. Esto sorprende, dado que normalmente un video tiene más likes que comentarios, principalmente por el esfuerzo que le implica al usuario realizar cada una de estas acciones. Se pudo observar que 889 canales tienen en promedio un ratio menor a 1, lo que parece lógico. Mientras que los restantes 111 canales, muestran tener en promedio más comentarios que likes. Esta situación podría justificarse a partir de que pueden ser canales cuyo contenido no guste mucho a los espectadores, y que consecuentemente no dejen likes en los videos pero sí publiquen comentarios criticando o simplemente expresando sus opiniones.
 
-#### Porcentaje de likes sobre views 
-
-En esta instancia se calcula qué porcentaje de las views a un canal son retribuidas con un like. Este porcentaje es de 3.1072%
-Se puede interpretar que son muy pocos los viewers que le dan like a un video. De todas formas esta estadística puede verse perjudicada por el hecho de que un usuario puede dar like a un video una única vez, mientras que puede visualizarlo cuantas veces quiera.
-
 
 <img width="705" alt="Captura de Pantalla 2022-04-11 a la(s) 15 20 59" src="https://user-images.githubusercontent.com/95255479/162804358-baaa0c99-2fa7-438e-bf5c-d37f66e4a3c8.png">
 
 Aquí se presenta un gráfico para cada ratio calculado anteriormente, clasificados según la categoría del contenido. A partir de este análisis se puede concluir cuáles son las categorías que presentan más views o likes en relación a los suscriptores, likes en relación a los views y también comments en relación a los likes. Los resultados de estas visualizaciones se pueden traducir en que aquellos canales cuya categoría es "travel" presentan los mejores ratios relativos a los suscriptores, es decir que este tipo de contenido es al que la gente más ve y likea en relación a los suscriptores que tiene el canal. Esto puede deberse a que este tipo de contenido suele ser consumido cuando la gente planea un viaje, por lo que se suele obtener información de muchas fuentes distintas y no es común que se suscriba a todos los canales cuyo contenido utiliza.
 Por otro lado, en el gráfico que representa el ratio_views_likes, se puede ver que la categoría destacada es "Autos & Vehicles". Esto quiere decir que mucha gente que ve ese tipo de videos, acaba retibuyéndolos con un like.
 Finalmente, respecto al gráfico del ratio_likes_comments, se presenta la categoría "Design/art" sobreponiéndose sobre el resto. Este suceso podría explicarse a partir de que es un contenido relativamente crítico, sobre el que la gente le gusta opinar y comentar sus ideas.
+
+#### Porcentaje de likes sobre views 
+
+En esta instancia se calcula qué porcentaje de las views a un canal son retribuidas con un like. Este porcentaje es de 3.1072%
+Se puede interpretar que son muy pocos los viewers que le dan like a un video. De todas formas esta estadística puede verse perjudicada por el hecho de que un usuario puede dar like a un video una única vez, mientras que puede visualizarlo cuantas veces quiera.
 
 
 ## Conclusiones
