@@ -91,7 +91,7 @@ Por cantidad de comentarios:
 
 ### Gráficos por país y por categoría
 
-![](https://github.com/valequinelli/EntregaIntermedia.git/imagename.png)
+![](https://github.com/valequinelli/EntregaIntermedia.git/Captura de Pantalla 2022-04-11 a la(s) 00.08.22.png)
 
 ## Conclusiones
 
