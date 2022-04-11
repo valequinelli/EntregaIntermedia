@@ -63,7 +63,7 @@ Por cantidad de me gusta:
 
 Por cantidad de comentarios:
 
-| youtuber_name | channel_name         | category             | subscribers     | audience_country | average_views | average_likes | average_comments |        |
+| | youtuber_name | channel_name         | category             | subscribers     | audience_country | average_views | average_likes | average_comments |        
 |---------------|----------------------|----------------------|-----------------|------------------|---------------|---------------|------------------|--------|
 | 503           | Bizarrap             | Bizarrap             | Music & Dance   | 13100000         | Argentina     | 80500000      | 5600000          | 313600 |
 | 76            | Desi Music Factory   | Desi Music Factory   | Music & Dance   | 32100000         | India         | 10800000      | 396400           | 143600 |
