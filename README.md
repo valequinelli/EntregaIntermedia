@@ -63,12 +63,13 @@ Por cantidad de me gusta:
 
 Por cantidad de comentarios:
 
-| | youtuber_name | channel_name         | category             | subscribers     | audience_country | average_views | average_likes | average_comments |        
-| 503           | Bizarrap             | Bizarrap             | Music & Dance   | 13100000         | Argentina     | 80500000      | 5600000          | 313600 |   |   |   |   |   |   |   |
-| 76            | Desi Music Factory   | Desi Music Factory   | Music & Dance   | 32100000         | India         | 10800000      | 396400           | 143600 |   |   |   |   |   |   |   |
-| 924           | Bispo Bruno Leonardo | Bispo Bruno Leonardo | Music & Dance   | 9600000          | Brazil        | 577900        | 208700           | 139800 |   |   |   |   |   |   |   |
-| 703           | Jaiden Animations    | Jaiden Animations    | No Data         | 11100000         | United States | 5600000       | 602700           | 94300  |   |   |   |   |   |   |   |
-| 844           | вДудь                | вДудь                | News & Politics | 10100000         | Russia        | 16800000      | 615500           | 89400  
+| youtuber_name | channel_name         | category             | subscribers     | audience_country | average_views | average_likes | average_comments |        |
+|---------------|----------------------|----------------------|-----------------|------------------|---------------|---------------|------------------|--------|
+| 503           | Bizarrap             | Bizarrap             | Music & Dance   | 13100000         | Argentina     | 80500000      | 5600000          | 313600 |
+| 76            | Desi Music Factory   | Desi Music Factory   | Music & Dance   | 32100000         | India         | 10800000      | 396400           | 143600 |
+| 924           | Bispo Bruno Leonardo | Bispo Bruno Leonardo | Music & Dance   | 9600000          | Brazil        | 577900        | 208700           | 139800 |
+| 703           | Jaiden Animations    | Jaiden Animations    | No Data         | 11100000         | United States | 5600000       | 602700           | 94300  |
+| 844           | вДудь                | вДудь                | News & Politics | 10100000         | Russia        | 16800000      | 615500           | 89400  |
 
 |     | youtuber_name        | channel_name         | category        |   subscribers | audience_country   |   average_views |   average_likes |   average_comments |\n|----:|:---------------------|:---------------------|:----------------|--------------:|:-------------------|----------------:|----------------:|-------------------:|\n| 503 | Bizarrap             | Bizarrap             | Music & Dance   |      13100000 | Argentina          |        80500000 |         5.6e+06 |             313600 |\n|  76 | Desi Music Factory   | Desi Music Factory   | Music & Dance   |      32100000 | India              |        10800000 |    396400       |             143600 |\n| 924 | Bispo Bruno Leonardo | Bispo Bruno Leonardo | Music & Dance   |       9600000 | Brazil             |          577900 |    208700       |             139800 |\n| 703 | Jaiden Animations    | Jaiden Animations    | No Data         |      11100000 | United States      |         5600000 |    602700       |              94300 |\n| 844 | вДудь                | вДудь                | News & Politics |      10100000 | Russia             |        16800000 |    615500       |              89400 |
 
