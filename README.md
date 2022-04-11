@@ -108,6 +108,12 @@ El siguiente gráfico muestra la cantidad de canales según la categoría de su 
 
 Total de entradas con datos de categoría: 723
 
+El siguiente gráfico muestra la cantidad de views promedio según la categoría de su contenido:
+
+<img width="290" alt="Captura de Pantalla 2022-04-11 a la(s) 15 55 42" src="https://user-images.githubusercontent.com/95255479/162810135-1a0966f8-247a-40d0-aefb-37fd52f4310d.png">
+
+Al analizar el gráfico se puede concluir que "Health & Self Help", "Sports" y "Travel" son las categorías que más visualizaciones tienen en promedio.
+
 ### Gráficos de ratios
 
 <img width="705" alt="Captura de Pantalla 2022-04-11 a la(s) 15 11 45" src="https://user-images.githubusercontent.com/95255479/162802959-1bbd2793-0de2-4038-8eb8-900ba4e959c7.png">
@@ -138,7 +144,6 @@ Finalmente, respecto al gráfico del ratio_likes_comments, se presenta la catego
 De las gráficas de ratios se desprende que la relación entre la cantidad de suscriptores, visualizaciones, me gusta y comentarios es bastante similar en todos los casos. Se observa un comportamiento bastante parejo en lo general, con casos puntuales en los que la relación no es directa.
 Sin embargo, es curioso
 
-
 En cuanto a los países de la audiencia, se observa que Estados Unidos es el de mayor audiencia. Esto puede dar la pauta de que sería bueno enfocar los esfuerzos en apuntar a ese público, lo que podría traer mayores visualizaciones. 
 
-Si se analizan las categorías del contenido de cada canal, se concluye que la de mayor popularidad es "Music & Dance". Se observa que en todos los Top 5 el canal que ocupa el primer puesto corresponde a esta categoría.
+Si se analizan las categorías del contenido de cada canal, se concluye que la de mayor popularidad es "Music & Dance". Se observa que en todos los Top 5 el canal que ocupa el primer puesto corresponde a esta categoría. No obstante, las categorías con mayor cantidad de visualizaciones promedio son "Health & Self Help", "Sports" y "Travel". Esto podría explicarse a partir de que estas categorías suelen gustar a más gente, dado que son temas bastante populares. Con el objetivo de responder a la pregunta inicial (cómo lograr un mayor alcance en YouTube), se le podría recomendar a los creadores de contenido que opten por inclinarse hacia estas categorías, ya que, como se ha demostrado, son las que llegan a más gente.
