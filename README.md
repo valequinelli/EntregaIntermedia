@@ -59,7 +59,13 @@ Por número de visualizaciones:
 
 Por cantidad de me gusta:
 
-|     | youtuber_name    | channel_name     | category      |   subscribers | audience_country   |   average_views |   average_likes |   average_comments |\n|----:|:-----------------|:-----------------|:--------------|--------------:|:-------------------|----------------:|----------------:|-------------------:|\n| 503 | Bizarrap         | Bizarrap         | Music & Dance |      13100000 | Argentina          |        80500000 |         5.6e+06 |             313600 |\n|   4 | MrBeast6000      | MrBeast          | Video games   |      92500000 | United States      |        30600000 |         1.7e+06 |              67700 |\n| 423 | Harsh Beniwal    | Harsh Beniwal    | Movies        |      14300000 | India              |        11600000 |         1.3e+06 |              55400 |\n| 363 | Triggered Insaan | Triggered Insaan | Humor         |      15400000 | India              |         6400000 |    800900       |              26500 |\n| 628 | MORGENSHTERN     | MORGENSHTERN     | Humor         |      11700000 | Russia             |        11000000 |    789900       |              54800 |
+|     |    youtuber_name |     channel_name |      category | subscribers | audience_country | average_views | average_likes | average_comments |
+|-----|-----------------:|-----------------:|--------------:|------------:|-----------------:|--------------:|--------------:|-----------------:|
+| 503 | Bizarrap         | Bizarrap         | Music & Dance | 13100000    | Argentina        | 80500000      | 5600000       | 313600           |
+| 4   | MrBeast6000      | MrBeast          | Video games   | 92500000    | United States    | 30600000      | 1700000       | 67700            |
+| 423 | Harsh Beniwal    | Harsh Beniwal    | Movies        | 14300000    | India            | 11600000      | 1300000       | 55400            |
+| 363 | Triggered Insaan | Triggered Insaan | Humor         | 15400000    | India            | 6400000       | 800900        | 26500            |
+| 628 | MORGENSHTERN     | MORGENSHTERN     | Humor         | 11700000    | Russia           | 11000000      | 789900        | 54800            |
 
 Por cantidad de comentarios:
 
@@ -70,9 +76,6 @@ Por cantidad de comentarios:
 | 924           | Bispo Bruno Leonardo | Bispo Bruno Leonardo | Music & Dance   | 9600000          | Brazil        | 577900        | 208700           | 139800 |
 | 703           | Jaiden Animations    | Jaiden Animations    | No Data         | 11100000         | United States | 5600000       | 602700           | 94300  |
 | 844           | вДудь                | вДудь                | News & Politics | 10100000         | Russia        | 16800000      | 615500           | 89400  |
-
-|     | youtuber_name        | channel_name         | category        |   subscribers | audience_country   |   average_views |   average_likes |   average_comments |\n|----:|:---------------------|:---------------------|:----------------|--------------:|:-------------------|----------------:|----------------:|-------------------:|\n| 503 | Bizarrap             | Bizarrap             | Music & Dance   |      13100000 | Argentina          |        80500000 |         5.6e+06 |             313600 |\n|  76 | Desi Music Factory   | Desi Music Factory   | Music & Dance   |      32100000 | India              |        10800000 |    396400       |             143600 |\n| 924 | Bispo Bruno Leonardo | Bispo Bruno Leonardo | Music & Dance   |       9600000 | Brazil             |          577900 |    208700       |             139800 |\n| 703 | Jaiden Animations    | Jaiden Animations    | No Data         |      11100000 | United States      |         5600000 |    602700       |              94300 |\n| 844 | вДудь                | вДудь                | News & Politics |      10100000 | Russia             |        16800000 |    615500       |              89400 |
-
 
 
 
